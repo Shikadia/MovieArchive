@@ -1,0 +1,15 @@
+C:\workspace\Repos\MoviesList\MoviesList.Core\bin\Debug\net6.0\MoviesList.Core.deps.json
+C:\workspace\Repos\MoviesList\MoviesList.Core\bin\Debug\net6.0\MoviesList.Core.dll
+C:\workspace\Repos\MoviesList\MoviesList.Core\bin\Debug\net6.0\MoviesList.Core.pdb
+C:\workspace\Repos\MoviesList\MoviesList.Core\bin\Debug\net6.0\MoviesList.Domain.dll
+C:\workspace\Repos\MoviesList\MoviesList.Core\bin\Debug\net6.0\MoviesList.Domain.pdb
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.csproj.AssemblyReference.cache
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.AssemblyInfoInputs.cache
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.AssemblyInfo.cs
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.csproj.CoreCompileInputs.cache
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.csproj.CopyComplete
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.dll
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\refint\MoviesList.Core.dll
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\MoviesList.Core.pdb
+C:\workspace\Repos\MoviesList\MoviesList.Core\obj\Debug\net6.0\ref\MoviesList.Core.dll

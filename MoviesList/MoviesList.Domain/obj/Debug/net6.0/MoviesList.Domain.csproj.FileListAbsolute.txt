@@ -1,0 +1,14 @@
+C:\workspace\Repos\MoviesList\MoviesList.Domain\bin\Debug\net6.0\MoviesList.Domain.deps.json
+C:\workspace\Repos\MoviesList\MoviesList.Domain\bin\Debug\net6.0\MoviesList.Domain.runtimeconfig.json
+C:\workspace\Repos\MoviesList\MoviesList.Domain\bin\Debug\net6.0\MoviesList.Domain.dll
+C:\workspace\Repos\MoviesList\MoviesList.Domain\bin\Debug\net6.0\MoviesList.Domain.pdb
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.csproj.AssemblyReference.cache
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.AssemblyInfoInputs.cache
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.AssemblyInfo.cs
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.dll
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\refint\MoviesList.Domain.dll
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.pdb
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\MoviesList.Domain.genruntimeconfig.cache
+C:\workspace\Repos\MoviesList\MoviesList.Domain\obj\Debug\net6.0\ref\MoviesList.Domain.dll

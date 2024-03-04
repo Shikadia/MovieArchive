@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+  /* height: 600px; */
+  padding: 50px;
+  margin: 200px auto 100px;
+  width: 100%;
+}
+
+.page_container {
+  padding: 150px 30px 0px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.page_container img {
+  width: 150px;
+  height: 150px;
+  margin-right: 30px;
+}
+
+.title {
+  text-align: left;
+  color: #28282b;
+  font-family: "Poppins";
+  line-height: 1.3em;
+  font-size: 40px;
+  font-weight: 900;
+}
